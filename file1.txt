@@ -1,3 +1,4 @@
 project initialized
 first line added
 second line added
+added new line again
